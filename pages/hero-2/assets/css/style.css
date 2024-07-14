@@ -175,3 +175,7 @@ body {
 
 }
 }
+body {
+    height: 300dvh;
+    overflow-x: hidden;
+}
