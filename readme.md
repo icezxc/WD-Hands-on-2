@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/429876221_925146285745958_1756909776392887757_n-removebg-preview.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hands on 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project showcases diverse designs of web page headers and footers using HTML and CSS. By exploring visual effects, layouts, and container manipulations, it demonstrates the creative potential for enhancing these crucial page elements. The goal is to inspire web designers to push the boundaries of header and footer design.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=icezxc/WD-Hands-on-2)
 
 ---
 
@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Project demonstrate the coding of HTMl and CSS in different kinds of headers and footers in addition of animations. This is to have hands-on experience in coding and having an actual output.
 
 Guiding Question:
 - What is the project
@@ -68,15 +68,14 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Hover Effect
+- Active Effect
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +116,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | https://docs.google.com/document/d/1Qp6b7b2SvMa1pyGf7OadEB8YfbcluATIa6bibNJ_IH8/edit |
